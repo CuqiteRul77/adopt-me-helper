@@ -53,3 +53,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: adopt-me-helper, roblox, autofarm, pets, quests, money, gaming-tools, automation, adopt-me, cli, developer-tools, open-source, windows, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+adopt-me roblox autofarm pets quests money gaming-tools automation adopt-me-helper pets-autofarm adopt-me-autofarm windows portable prebuilt x64 free download
+related: adopt-me, roblox, autofarm, pets, quests, money, gaming-tools, automation
